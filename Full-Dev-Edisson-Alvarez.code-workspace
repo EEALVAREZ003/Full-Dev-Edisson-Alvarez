@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Full-Dev-Edisson-Alvarez",
+			"path": "."
+		},
+		{
+			"name": "EDISON-ALVAREZ47",
+			"path": "../EDISON-ALVAREZ47"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Full-Dev-Edisson-Alvarez"
+	}
+}
